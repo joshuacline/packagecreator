@@ -1,1 +1,2 @@
-![Alt text](/png/PackCreator.png "PackageCreator")
+- Support for Driver/Scripted WIM based Packs
+- ![Alt text](/png/PackCreator.png "PackageCreator")
